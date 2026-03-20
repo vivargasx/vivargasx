@@ -2,7 +2,7 @@
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
-  ### 🎨 Design & UI/UX
+🎨 Design & UI/UX
 
 <div>
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
@@ -12,7 +12,7 @@
 
 ---
 
-### 🛠 Desenvolvimento & Programação
+🛠 Desenvolvimento & Programação
 
 <div>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
